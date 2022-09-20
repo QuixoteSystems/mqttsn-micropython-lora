@@ -1,4 +1,4 @@
-# MQTT-SN client for Python 3 and Micropython
+# MQTT-SN client for LoRa devices using Micropython
 
 **mqttsn**: Python 3 library</br>
 **umqttsn**: Micropython library (Work best as frozen module)</br>
